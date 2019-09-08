@@ -1,0 +1,47 @@
+{
+  "teamName" : "Fantastic Four",
+  "town" : "Coimbatore",
+  "formed" : 2018,
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Madhu",
+      "age" : 21,
+      "work" : "MXian",
+      "describe" : [
+        "Dog lover",
+        "Green panther",
+        "Shutter bug"
+      ]
+    },
+    {
+      "name" : "Gayu",
+      "age" : 21,
+      "work" : "Vertonna",
+      "describe" : [
+        "Singer",
+        "Peace maker"
+      ]
+    },
+    {
+      "name" : "Bhavi",
+      "age" : 22,
+      "work" : "KGiSL",
+      "describe" : [
+        "Chatterbox",
+        "Minion",
+        "Keyboard player",
+        "Singer"
+      ]
+    },
+    {
+      "name" : "Ella",
+      "age" : 21,
+      "work" : "Casian",
+      "describe" : [
+        "Teddy girl",
+        "Foodie"
+      ]
+    }
+  ]
+}
